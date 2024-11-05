@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Lőrintz Levente    
+osztály: 9c
